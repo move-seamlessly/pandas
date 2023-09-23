@@ -1,0 +1,17 @@
+
+Questions on school-data.tsv table -
+
+1.	Who got the higest/lowest score in each subject - english, math, science, history?
+2.	Who got the highest/lowest total score?
+3.	Find all students within 20 of highest and lowest total scores.
+4.	Find all students got over 70% in all subjects. How many?
+5.	Find all students, who got over 95% in at least one subject. How many?
+6.	How many students are in top 10% in math + science but bottom 10% in english+history?
+7.	How many students are in bottom 10% in both math and science but top 10% in both english and history?
+
+
+Questions on the join table -
+
+1. We like to send certificates to all students. Create a data frame with students, their full addresses and total scores.
+2. The top three students in the class get special reward. Create a data frame with their names and full addresses.
+
